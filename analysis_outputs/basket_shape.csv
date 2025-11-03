@@ -1,0 +1,11 @@
+metric,value
+lines_mean,3.78721529935612
+lines_median,3.0
+lines_p25,2.0
+lines_p75,5.0
+units_mean,5.034067975782426
+units_median,3.0
+units_p25,2.0
+units_p75,6.0
+orders_single_line,0.19857769804913988
+orders_multi_line,0.8014223019508601
