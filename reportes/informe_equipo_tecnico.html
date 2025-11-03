@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="utf-8" />
+  <title>Informe Técnico · Premium Nutrition</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --primary: #0b7285;
+      --secondary: #1f2933;
+      --accent: #ff6b00;
+      --bg: #f7f9fb;
+      --card-bg: #ffffff;
+      --muted: #6b7280;
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      font-family: "Segoe UI", Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--secondary);
+      background: linear-gradient(180deg, #ffffff 0%, var(--bg) 80%);
+      padding-bottom: 4rem;
+    }
+    header {
+      background: linear-gradient(135deg, rgba(11,114,133,0.92), rgba(31,152,219,0.85));
+      color: #fff;
+      padding: 3.5rem 6%;
+      box-shadow: 0 12px 32px rgba(11,114,133,0.25);
+      border-bottom: 4px solid rgba(255,255,255,0.2);
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.4rem;
+      font-weight: 700;
+    }
+    header p {
+      margin: 0.75rem 0 0;
+      font-size: 1.05rem;
+      max-width: 48rem;
+    }
+    main {
+      padding: 2.5rem 6%;
+      display: grid;
+      gap: 2.5rem;
+    }
+    section {
+      background: var(--card-bg);
+      border-radius: 16px;
+      padding: 2rem;
+      box-shadow: 0 18px 36px rgba(15, 23, 42, 0.08);
+      border: 1px solid rgba(148, 163, 184, 0.18);
+    }
+    h2 {
+      margin-top: 0;
+      font-size: 1.55rem;
+      color: var(--primary);
+      display: flex;
+      align-items: center;
+      gap: 0.6rem;
+    }
+    h2::before {
+      content: "";
+      display: inline-block;
+      width: 18px;
+      height: 18px;
+      background: var(--accent);
+      border-radius: 4px;
+    }
+    .card-grid {
+      display: grid;
+      gap: 1.5rem;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      margin-top: 1.5rem;
+    }
+    .card {
+      background: linear-gradient(145deg, #ffffff 0%, #f1f5f9 100%);
+      border-radius: 14px;
+      padding: 1.2rem 1.4rem;
+      box-shadow: inset 0 1px 0 rgba(255,255,255,0.6), 0 8px 20px rgba(15,23,42,0.12);
+    }
+    .card h3 {
+      margin: 0;
+      font-size: 0.95rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+      color: var(--muted);
+    }
+    .card p {
+      margin: 0.35rem 0 0;
+      font-size: 1.55rem;
+      font-weight: 700;
+      color: var(--secondary);
+    }
+    ul {
+      padding-left: 1.4rem;
+      margin: 1rem 0 0.4rem;
+    }
+    li {
+      margin-bottom: 0.6rem;
+    }
+    .timeline {
+      border-left: 3px solid rgba(11,114,133,0.2);
+      margin-top: 1.5rem;
+      padding-left: 1.8rem;
+    }
+    .timeline-step {
+      position: relative;
+      margin-bottom: 1.5rem;
+    }
+    .timeline-step::before {
+      content: "";
+      position: absolute;
+      left: -1.95rem;
+      top: 0.4rem;
+      width: 14px;
+      height: 14px;
+      border-radius: 50%;
+      background: var(--primary);
+      box-shadow: 0 0 0 4px rgba(11,114,133,0.18);
+    }
+    .timeline-step h3 {
+      margin: 0 0 0.35rem;
+      font-size: 1.1rem;
+      color: var(--primary);
+    }
+    .timeline-step p {
+      margin: 0;
+      color: var(--muted);
+    }
+    .gallery {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
+      gap: 2rem;
+      margin-top: 1.75rem;
+    }
+    figure {
+      margin: 0;
+      background: #fff;
+      border-radius: 14px;
+      padding: 1rem;
+      box-shadow: 0 16px 32px rgba(15,23,42,0.14);
+      border: 1px solid rgba(148,163,184,0.22);
+    }
+    figure img {
+      width: 100%;
+      border-radius: 10px;
+      display: block;
+    }
+    figure figcaption {
+      margin-top: 0.6rem;
+      font-size: 0.9rem;
+      color: var(--muted);
+      text-align: center;
+    }
+    .footnote {
+      font-size: 0.9rem;
+      color: var(--muted);
+      margin-top: 1.5rem;
+      border-top: 1px dashed rgba(148,163,184,0.5);
+      padding-top: 1rem;
+    }
+    @media (max-width: 720px) {
+      header { padding: 2.5rem 1.5rem; }
+      main { padding: 2rem 1.5rem; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Informe técnico · Evolución del agente IA comercial</h1>
+    <p>
+      Resumen de actividades realizadas por el equipo de datos para robustecer el agente de ventas de Zona FIT,
+      combinando datos históricos de Shopify, investigación de mercado (<em>“IA para Estrategia de Contenido Premium Nutrition”</em>)
+      y el plan prescriptivo que integraremos al prompt del agente.
+    </p>
+  </header>
+
+  <main>
+    <section>
+      <h2>Panorama general del proyecto</h2>
+      <p>Se completó un ciclo de análisis que abarcó:</p>
+      <ul>
+        <li>Extracción y normalización del histórico completo de Shopify (<code>bulk_definitivo.json</code> → órdenes y líneas en CSV).</li>
+        <li>Análisis descriptivo de ventas, canastas y clientes con <code>analyze_bulk_data.py</code> y artefactos en <code>analysis_outputs/</code>.</li>
+        <li>Investigación de negocio y mercado colombiano (documento base de RAG + estudio de crecimiento del sector suplementos).</li>
+        <li>Diseño de estrategia prescriptiva: segmentos RFM, bundles ganadores, guion conversacional y reglas de descuentos para el agente IA.</li>
+      </ul>
+      <div class="card-grid">
+        <div class="card">
+          <h3>GMV analizado</h3>
+          <p>COP 20.44 B</p>
+        </div>
+        <div class="card">
+          <h3>Órdenes procesadas</h3>
+          <p>62,434</p>
+        </div>
+        <div class="card">
+          <h3>Clientes únicos</h3>
+          <p>36,429</p>
+        </div>
+        <div class="card">
+          <h3>Ticket promedio</h3>
+          <p>COP 327k</p>
+        </div>
+        <div class="card">
+          <h3>Órdenes con descuento</h3>
+          <p>93 %</p>
+        </div>
+        <div class="card">
+          <h3>Top SKU</h3>
+          <p>Whey &amp; Creatina</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Proceso de trabajo</h2>
+      <div class="timeline">
+        <div class="timeline-step">
+          <h3>1. Extracción y limpieza</h3>
+          <p>Conversión del bulk de Shopify a CSV, validación de campos críticos (montos, fechas, customer_id) y clasificación automática de productos.</p>
+        </div>
+        <div class="timeline-step">
+          <h3>2. Análisis descriptivo</h3>
+          <p>KPIs de negocio, Pareto de catálogo, comportamiento temporal (día/hora), forma de la canasta y segmentación RFM.</p>
+        </div>
+        <div class="timeline-step">
+          <h3>3. Investigación de mercado</h3>
+          <p>Revisión del documento RAG y fuentes secundarias: crecimiento del mercado (≈6 % anual), perfil del consumidor y preferencia por proteínas/creatina.</p>
+        </div>
+        <div class="timeline-step">
+          <h3>4. Estrategia prescriptiva</h3>
+          <p>Playbook para el agente IA: guiones por objetivo, bundles sugeridos, política de descuentos según segmento y ventanas horarias prioritarias.</p>
+        </div>
+      </div>
+    </section>
+
+    <section>
+      <h2>Insights visuales</h2>
+      <div class="gallery">
+        <figure>
+          <img src="img_revenue_trend.png" alt="Curva de revenue diario" />
+          <figcaption>Ingresos diarios: crecimiento estable con picos entre mayo y julio 2025.</figcaption>
+        </figure>
+        <figure>
+          <img src="img_sales_by_hour.png" alt="Revenue por hora" />
+          <figcaption>Horas pico: 9:00 a 17:00, ideal para automatizaciones y outreach del agente.</figcaption>
+        </figure>
+        <figure>
+          <img src="img_top_products.png" alt="Top 10 productos" />
+          <figcaption>Dominio del catálogo: proteínas y creatinas concentran &gt;60 % del GMV.</figcaption>
+        </figure>
+      </div>
+    </section>
+
+    <section>
+      <h2>Conclusiones y próximos pasos</h2>
+      <ul>
+        <li>El corazón del negocio está en un grupo reducido de productos héroe (principalmente proteínas y creatinas); hay que asegurarnos de contarlo así cuando el agente hable con los clientes.</li>
+        <li>Las personas ya compran varios artículos por pedido, de modo que el agente puede proponer combos y rutinas completas sin que suene forzado.</li>
+        <li>Los descuentos siguen siendo un imán, pero conviene usarlos con intención: beneficios especiales para quienes compran seguido y empujes puntuales para quienes hace rato no aparecen.</li>
+        <li>Las mejores conversaciones se dan en días de semana y durante la jornada laboral; programemos mensajes y recordatorios en esas ventanas.</li>
+        <li>Todo lo aprendido quedó resumido en <code>estrategia_agente_ventas.md</code>; hay que integrarlo al prompt para que la IA converse como un asesor humano de Zona FIT.</li>
+      </ul>
+      <div class="footnote">
+        Referencias clave: dataset histórico de Shopify, análisis en <code>analysis_outputs/</code>, investigación “IA para Estrategia de Contenido Premium Nutrition” y reportes de mercado (Euromonitor, ICEX, Portafolio).
+      </div>
+    </section>
+  </main>
+</body>
+</html>
