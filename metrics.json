@@ -1,0 +1,3311 @@
+{
+  "summary": {
+    "orders_total": 62434,
+    "orders_with_discount": 57938,
+    "orders_with_shipping": 9308,
+    "total_revenue": 20443371109.519997,
+    "total_discounts": 5311259487.48,
+    "total_shipping": 82186000.0,
+    "average_order_value": 327439.7140903994,
+    "median_order_value": 297650.0,
+    "average_discount_rate": 0.2390878813999404,
+    "average_line_items_per_order": 3.78721529935612,
+    "average_quantity_per_order": 5.034067975782426
+  },
+  "top_products": [
+    {
+      "product_id": "gid://shopify/Product/8623200403670",
+      "title": "Gold Standard 100% Whey Optimum Nutrition",
+      "vendor": "Optimum Nutrition",
+      "product_type": "Proteína Limpia",
+      "category": "Proteínas",
+      "subcategory": "Proteína de Suero (Whey Protein)",
+      "total_quantity": 17781,
+      "total_revenue": 4450547160.570044,
+      "total_list_revenue": 4628866102.570049,
+      "order_count": 14263,
+      "revenue_share": 0.19782611296654065
+    },
+    {
+      "product_id": "gid://shopify/Product/8623198273750",
+      "title": "Creatine Powder Micronized Optimum Nutrition",
+      "vendor": "Optimum Nutrition",
+      "product_type": "Creatina",
+      "category": "Rendimiento y Energía",
+      "subcategory": "Creatina",
+      "total_quantity": 21364,
+      "total_revenue": 2789996529.930023,
+      "total_list_revenue": 2812976529.930016,
+      "order_count": 18353,
+      "revenue_share": 0.12401490171727543
+    },
+    {
+      "product_id": "gid://shopify/Product/8611683958998",
+      "title": "ISO 100 Dymatize Nutrition",
+      "vendor": "Dymatize Nutrition",
+      "product_type": "Proteína Limpia",
+      "category": "Proteínas",
+      "subcategory": "Proteína Aislada/Hidrolizada (Isolate/Hydrolyzed)",
+      "total_quantity": 4982,
+      "total_revenue": 1761333454.0,
+      "total_list_revenue": 1848235350.0,
+      "order_count": 4554,
+      "revenue_share": 0.07829099170766274
+    },
+    {
+      "product_id": "gid://shopify/Product/8623213281494",
+      "title": "BiPro Classic Megaplex",
+      "vendor": "Megaplex",
+      "product_type": "Proteína Limpia",
+      "category": "Control de Peso",
+      "subcategory": "CLA",
+      "total_quantity": 7775,
+      "total_revenue": 1092565482.2700002,
+      "total_list_revenue": 1343456541.2700126,
+      "order_count": 5682,
+      "revenue_share": 0.04856436180112385
+    },
+    {
+      "product_id": "gid://shopify/Product/8727713251542",
+      "title": "Platinum 100% Creatine Muscletech",
+      "vendor": "Zona FIT",
+      "product_type": "Creatina",
+      "category": "Rendimiento y Energía",
+      "subcategory": "Creatina",
+      "total_quantity": 5567,
+      "total_revenue": 819395053.3400005,
+      "total_list_revenue": 819395053.3400005,
+      "order_count": 4188,
+      "revenue_share": 0.03642197971125452
+    },
+    {
+      "product_id": "gid://shopify/Product/8623212626134",
+      "title": "Gold Standard 100% Isolate Optimum Nutrition",
+      "vendor": "Optimum Nutrition",
+      "product_type": "Proteína Limpia",
+      "category": "Proteínas",
+      "subcategory": "Proteína Aislada/Hidrolizada (Isolate/Hydrolyzed)",
+      "total_quantity": 2306,
+      "total_revenue": 758030024.3800027,
+      "total_list_revenue": 780565339.3800031,
+      "order_count": 2246,
+      "revenue_share": 0.03369431394045059
+    },
+    {
+      "product_id": "gid://shopify/Product/8704899907798",
+      "title": "Whey Pure Smart Nutrition",
+      "vendor": "Smart Nutrition",
+      "product_type": "Proteína Limpia",
+      "category": "Proteínas",
+      "subcategory": "Proteína de Suero (Whey Protein)",
+      "total_quantity": 4316,
+      "total_revenue": 707857495.430001,
+      "total_list_revenue": 843441095.4300016,
+      "order_count": 3745,
+      "revenue_share": 0.03146415301376381
+    },
+    {
+      "product_id": "gid://shopify/Product/8623214821590",
+      "title": "Serious Mass Optimum Nutrition",
+      "vendor": "Optimum Nutrition",
+      "product_type": "Proteína Hipercalórica",
+      "category": "Proteínas",
+      "subcategory": "Proteínas Hipercalóricas (Mass Gainers)",
+      "total_quantity": 2835,
+      "total_revenue": 695421721.4200014,
+      "total_list_revenue": 729392440.4200008,
+      "order_count": 2607,
+      "revenue_share": 0.03091138483821808
+    },
+    {
+      "product_id": "gid://shopify/Product/8670448058582",
+      "title": "Creatine Iron Smart Nutrition",
+      "vendor": "Smart Nutrition",
+      "product_type": "Creatina",
+      "category": "Rendimiento y Energía",
+      "subcategory": "Creatina",
+      "total_quantity": 5623,
+      "total_revenue": 557853634.0600026,
+      "total_list_revenue": 661034634.060005,
+      "order_count": 4644,
+      "revenue_share": 0.024796505249528512
+    },
+    {
+      "product_id": "gid://shopify/Product/8623199584470",
+      "title": "Creatine Monohydrate Healthy Sports",
+      "vendor": "Healthy Sports",
+      "product_type": "Creatina",
+      "category": "Rendimiento y Energía",
+      "subcategory": "Creatina",
+      "total_quantity": 7103,
+      "total_revenue": 551400842.1300057,
+      "total_list_revenue": 650351492.1300056,
+      "order_count": 5433,
+      "revenue_share": 0.024509679675225503
+    },
+    {
+      "product_id": "gid://shopify/Product/8623196831958",
+      "title": "Gold Standard 100% Whey Naturally Flavored Optimum Nutrition",
+      "vendor": "Optimum Nutrition",
+      "product_type": "Proteína Limpia",
+      "category": "Proteínas",
+      "subcategory": "Proteína de Suero (Whey Protein)",
+      "total_quantity": 1742,
+      "total_revenue": 487924346.849997,
+      "total_list_revenue": 488804346.849997,
+      "order_count": 1703,
+      "revenue_share": 0.021688159562544638
+    },
+    {
+      "product_id": "gid://shopify/Product/8623200501974",
+      "title": "Amino X BSN",
+      "vendor": "BSN",
+      "product_type": "Aminoácidos",
+      "category": "Aminoácidos",
+      "subcategory": "EAA / Mezclas",
+      "total_quantity": 2331,
+      "total_revenue": 294754090.3500017,
+      "total_list_revenue": 321349562.3500016,
+      "order_count": 1845,
+      "revenue_share": 0.013101772404870054
+    },
+    {
+      "product_id": "gid://shopify/Product/8865682325718",
+      "title": "Shaker variado",
+      "vendor": "Zona FIT",
+      "product_type": "Otro",
+      "category": "Accesorios",
+      "subcategory": "Shakers y Botellas",
+      "total_quantity": 7587,
+      "total_revenue": 263073649.86,
+      "total_list_revenue": 263073649.86,
+      "order_count": 7556,
+      "revenue_share": 0.011693581867147022
+    },
+    {
+      "product_id": "gid://shopify/Product/8623212560598",
+      "title": "Burner Stack Megaplex",
+      "vendor": "Megaplex",
+      "product_type": "Quemadores y Definición",
+      "category": "Control de Peso",
+      "subcategory": "Quemadores de Grasa / Termogénicos",
+      "total_quantity": 16186,
+      "total_revenue": 260960298.45999908,
+      "total_list_revenue": 320439442.46000016,
+      "order_count": 2326,
+      "revenue_share": 0.011599643733764558
+    },
+    {
+      "product_id": "gid://shopify/Product/8623212167382",
+      "title": "Smart Proscience",
+      "vendor": "Proscience",
+      "product_type": "Proteína Hipercalórica",
+      "category": "Proteínas",
+      "subcategory": "Proteínas Hipercalóricas (Mass Gainers)",
+      "total_quantity": 2085,
+      "total_revenue": 254496977.56000033,
+      "total_list_revenue": 313831287.56000006,
+      "order_count": 1541,
+      "revenue_share": 0.011312350148420684
+    }
+  ],
+  "pareto": {
+    "total_products": 2068,
+    "top_20pct_count": 414,
+    "top_20pct_revenue": 22431910077.130077,
+    "top_20pct_revenue_share": 0.9970948328082042,
+    "products": [
+      {
+        "product_id": "gid://shopify/Product/8623200403670",
+        "title": "Gold Standard 100% Whey Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 4450547160.570044,
+        "total_quantity": 17781
+      },
+      {
+        "product_id": "gid://shopify/Product/8623198273750",
+        "title": "Creatine Powder Micronized Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 2789996529.930023,
+        "total_quantity": 21364
+      },
+      {
+        "product_id": "gid://shopify/Product/8611683958998",
+        "title": "ISO 100 Dymatize Nutrition",
+        "vendor": "Dymatize Nutrition",
+        "total_revenue": 1761333454.0,
+        "total_quantity": 4982
+      },
+      {
+        "product_id": "gid://shopify/Product/8623213281494",
+        "title": "BiPro Classic Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 1092565482.2700002,
+        "total_quantity": 7775
+      },
+      {
+        "product_id": "gid://shopify/Product/8727713251542",
+        "title": "Platinum 100% Creatine Muscletech",
+        "vendor": "Zona FIT",
+        "total_revenue": 819395053.3400005,
+        "total_quantity": 5567
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212626134",
+        "title": "Gold Standard 100% Isolate Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 758030024.3800027,
+        "total_quantity": 2306
+      },
+      {
+        "product_id": "gid://shopify/Product/8704899907798",
+        "title": "Whey Pure Smart Nutrition",
+        "vendor": "Smart Nutrition",
+        "total_revenue": 707857495.430001,
+        "total_quantity": 4316
+      },
+      {
+        "product_id": "gid://shopify/Product/8623214821590",
+        "title": "Serious Mass Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 695421721.4200014,
+        "total_quantity": 2835
+      },
+      {
+        "product_id": "gid://shopify/Product/8670448058582",
+        "title": "Creatine Iron Smart Nutrition",
+        "vendor": "Smart Nutrition",
+        "total_revenue": 557853634.0600026,
+        "total_quantity": 5623
+      },
+      {
+        "product_id": "gid://shopify/Product/8623199584470",
+        "title": "Creatine Monohydrate Healthy Sports",
+        "vendor": "Healthy Sports",
+        "total_revenue": 551400842.1300057,
+        "total_quantity": 7103
+      },
+      {
+        "product_id": "gid://shopify/Product/8623196831958",
+        "title": "Gold Standard 100% Whey Naturally Flavored Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 487924346.849997,
+        "total_quantity": 1742
+      },
+      {
+        "product_id": "gid://shopify/Product/8623200501974",
+        "title": "Amino X BSN",
+        "vendor": "BSN",
+        "total_revenue": 294754090.3500017,
+        "total_quantity": 2331
+      },
+      {
+        "product_id": "gid://shopify/Product/8865682325718",
+        "title": "Shaker variado",
+        "vendor": "Zona FIT",
+        "total_revenue": 263073649.86,
+        "total_quantity": 7587
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212560598",
+        "title": "Burner Stack Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 260960298.45999908,
+        "total_quantity": 16186
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212167382",
+        "title": "Smart Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 254496977.56000033,
+        "total_quantity": 2085
+      },
+      {
+        "product_id": "gid://shopify/Product/8623216492758",
+        "title": "Syntha 6 BSN",
+        "vendor": "BSN",
+        "total_revenue": 254474298.82999927,
+        "total_quantity": 731
+      },
+      {
+        "product_id": "gid://shopify/Product/8623196537046",
+        "title": "Isopure Zero Low Carb Isopure Company",
+        "vendor": "Isopure Company",
+        "total_revenue": 246158788.26000005,
+        "total_quantity": 776
+      },
+      {
+        "product_id": "gid://shopify/Product/8623198961878",
+        "title": "C4 Original Cellucor",
+        "vendor": "Cellucor",
+        "total_revenue": 239730860.2799998,
+        "total_quantity": 2442
+      },
+      {
+        "product_id": "gid://shopify/Product/8623213084886",
+        "title": "Megaplex Creatine Power Nutramerican",
+        "vendor": "Megaplex",
+        "total_revenue": 236388457.85000014,
+        "total_quantity": 2456
+      },
+      {
+        "product_id": "gid://shopify/Product/8623214035158",
+        "title": "Amino Energy Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 197545748.11000016,
+        "total_quantity": 1388
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212986582",
+        "title": "Best Protein Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 194735444.36000028,
+        "total_quantity": 1148
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212888278",
+        "title": "Intenze Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 193683642.2599991,
+        "total_quantity": 3501
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212789974",
+        "title": "Crea Stack Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 183601522.92000005,
+        "total_quantity": 2044
+      },
+      {
+        "product_id": "gid://shopify/Product/8755588366550",
+        "title": "Bebida Gratis",
+        "vendor": "Obsequio",
+        "total_revenue": 161600000.0,
+        "total_quantity": 16160
+      },
+      {
+        "product_id": "gid://shopify/Product/8782266040534",
+        "title": "Dosis de proteína a disponiblidad",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 159750000.0,
+        "total_quantity": 15975
+      },
+      {
+        "product_id": "gid://shopify/Product/8623199125718",
+        "title": "Platinum 100% Fish Oil Omega 3 Muscletech",
+        "vendor": "Muscletech",
+        "total_revenue": 158143856.97000006,
+        "total_quantity": 1941
+      },
+      {
+        "product_id": "gid://shopify/Product/8730733707478",
+        "title": "Nitrotech Whey Gold Muscletech",
+        "vendor": "Muscletech",
+        "total_revenue": 156219350.0,
+        "total_quantity": 585
+      },
+      {
+        "product_id": "gid://shopify/Product/8938784784598",
+        "title": "SHAKER SYNTHA 6 + SACHET INTENZE CITRUS + Burner LATA + ENERGY X SOBRE",
+        "vendor": "Zona FIT",
+        "total_revenue": 149451048.0,
+        "total_quantity": 16396
+      },
+      {
+        "product_id": "gid://shopify/Product/9084009152726",
+        "title": "Creatine 120 serv Optimum + Gold Standard 100% Whey Chocolate 10 serv (gratis)",
+        "vendor": "Zona FIT",
+        "total_revenue": 137870811.0,
+        "total_quantity": 811
+      },
+      {
+        "product_id": "gid://shopify/Product/8723494142166",
+        "title": "Muestra",
+        "vendor": "Zona FIT",
+        "total_revenue": 135470000.0,
+        "total_quantity": 13457
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191097558",
+        "title": "Embudo",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 122348111.01999992,
+        "total_quantity": 11777
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191785686",
+        "title": "Proton Whey Smartmuscle",
+        "vendor": "Smartmuscle",
+        "total_revenue": 104872404.99999972,
+        "total_quantity": 641
+      },
+      {
+        "product_id": "gid://shopify/Product/8610714943702",
+        "title": "Creatine Micronized Dymatize Nutrition",
+        "vendor": "Dymatize Nutrition",
+        "total_revenue": 97637000.0,
+        "total_quantity": 712
+      },
+      {
+        "product_id": "gid://shopify/Product/8623199191254",
+        "title": "Nitrotech Whey Protein Muscletech",
+        "vendor": "Muscletech",
+        "total_revenue": 95873500.0,
+        "total_quantity": 395
+      },
+      {
+        "product_id": "gid://shopify/Product/8623199158486",
+        "title": "Platinum Pure CLA Muscletech",
+        "vendor": "Muscletech",
+        "total_revenue": 95074360.21000001,
+        "total_quantity": 2846
+      },
+      {
+        "product_id": "gid://shopify/Product/8698274316502",
+        "title": "Mass Evolution Smart Nutrition",
+        "vendor": "Smart Nutrition",
+        "total_revenue": 93737707.55000012,
+        "total_quantity": 1086
+      },
+      {
+        "product_id": "gid://shopify/Product/8623198535894",
+        "title": "Creatine Monohydrate Ultimate Nutrition",
+        "vendor": "Ultimate Nutrition",
+        "total_revenue": 92193873.74000013,
+        "total_quantity": 1244
+      },
+      {
+        "product_id": "gid://shopify/Product/8748287852758",
+        "title": "Total War Games Redcon1",
+        "vendor": "Cellucor",
+        "total_revenue": 88268381.09,
+        "total_quantity": 1891
+      },
+      {
+        "product_id": "gid://shopify/Product/8840806039766",
+        "title": "Whey Sport Cellucor",
+        "vendor": "Cellucor",
+        "total_revenue": 87997054.49000019,
+        "total_quantity": 2010
+      },
+      {
+        "product_id": "gid://shopify/Product/8623211675862",
+        "title": "Legacy Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 83361103.5,
+        "total_quantity": 1011
+      },
+      {
+        "product_id": "gid://shopify/Product/8623195554006",
+        "title": "Fish Oil Omega 3 1.200 mg Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 76951250.0,
+        "total_quantity": 1658
+      },
+      {
+        "product_id": "gid://shopify/Product/8623214166230",
+        "title": "Platinum Hydrowhey Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 75327943.90999998,
+        "total_quantity": 225
+      },
+      {
+        "product_id": "gid://shopify/Product/8722594201814",
+        "title": "2 Muestras a disponibilidad",
+        "vendor": "Obsequio",
+        "total_revenue": 75195000.0,
+        "total_quantity": 5873
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212921046",
+        "title": "BiPro Mass Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 73982679.5,
+        "total_quantity": 625
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191523542",
+        "title": "Super Magnesium Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 73889895.4,
+        "total_quantity": 1267
+      },
+      {
+        "product_id": "gid://shopify/Product/8623192080598",
+        "title": "Legend Fitmafia",
+        "vendor": "Proscience",
+        "total_revenue": 73017815.11999999,
+        "total_quantity": 1066
+      },
+      {
+        "product_id": "gid://shopify/Product/8623216623830",
+        "title": "NO Xplode BSN",
+        "vendor": "BSN",
+        "total_revenue": 72361701.20000002,
+        "total_quantity": 427
+      },
+      {
+        "product_id": "gid://shopify/Product/8623200075990",
+        "title": "Prostar Whey Ultimate Nutrition",
+        "vendor": "Ultimate Nutrition",
+        "total_revenue": 72108825.27999993,
+        "total_quantity": 341
+      },
+      {
+        "product_id": "gid://shopify/Product/8623213674710",
+        "title": "Gold Standard 100% Casein Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 68557524.91,
+        "total_quantity": 235
+      },
+      {
+        "product_id": "gid://shopify/Product/8776605237462",
+        "title": "Masstech Muscletech",
+        "vendor": "Muscletech",
+        "total_revenue": 64897000.0,
+        "total_quantity": 245
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191752918",
+        "title": "Atomic HCL Smartmuscle",
+        "vendor": "Smartmuscle",
+        "total_revenue": 64728150.0,
+        "total_quantity": 948
+      },
+      {
+        "product_id": "gid://shopify/Product/8623190966486",
+        "title": "Super Mega Gainer GMN",
+        "vendor": "GMN",
+        "total_revenue": 57951664.17999996,
+        "total_quantity": 605
+      },
+      {
+        "product_id": "gid://shopify/Product/8623205712086",
+        "title": "Omega 3 Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 57740900.0,
+        "total_quantity": 986
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212495062",
+        "title": "Energy X Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 56546533.24999992,
+        "total_quantity": 2572
+      },
+      {
+        "product_id": "gid://shopify/Product/8623192539350",
+        "title": "Collagen Stack Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 56314368.0,
+        "total_quantity": 725
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212396758",
+        "title": "Army BCAA Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 51341866.150000006,
+        "total_quantity": 585
+      },
+      {
+        "product_id": "gid://shopify/Product/8861714219222",
+        "title": "Shaker",
+        "vendor": "Zona FIT",
+        "total_revenue": 49289101.65000005,
+        "total_quantity": 4397
+      },
+      {
+        "product_id": "gid://shopify/Product/8623190900950",
+        "title": "Mega Gainer GMN",
+        "vendor": "GMN",
+        "total_revenue": 47931717.83000012,
+        "total_quantity": 383
+      },
+      {
+        "product_id": "gid://shopify/Product/8709114953942",
+        "title": "Producto Sorpresa",
+        "vendor": "Vexus Supplements",
+        "total_revenue": 47722824.04999994,
+        "total_quantity": 4865
+      },
+      {
+        "product_id": "gid://shopify/Product/8857359450326",
+        "title": "Sachet Amino Energy Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 46764976.27999991,
+        "total_quantity": 7573
+      },
+      {
+        "product_id": "gid://shopify/Product/8623199748310",
+        "title": "Iso Whey 100% Healthy Sports",
+        "vendor": "Healthy Sports",
+        "total_revenue": 46410009.07999992,
+        "total_quantity": 279
+      },
+      {
+        "product_id": "gid://shopify/Product/8751380758742",
+        "title": "Amino Energy + Electrolytes Sparkling Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 44946377.87999957,
+        "total_quantity": 3759
+      },
+      {
+        "product_id": "gid://shopify/Product/8772303945942",
+        "title": "Embudos Variados",
+        "vendor": "Zona FIT",
+        "total_revenue": 44623033.97000038,
+        "total_quantity": 4133
+      },
+      {
+        "product_id": "gid://shopify/Product/8722599968982",
+        "title": "Celltech Muscletech",
+        "vendor": "Muscletech",
+        "total_revenue": 44600500.0,
+        "total_quantity": 235
+      },
+      {
+        "product_id": "gid://shopify/Product/8782216921302",
+        "title": "Atomic Monohidrato Smartmuscle",
+        "vendor": "Smartmuscle",
+        "total_revenue": 44379500.0,
+        "total_quantity": 522
+      },
+      {
+        "product_id": "gid://shopify/Product/8728721457366",
+        "title": "Mystery Free Gift",
+        "vendor": "Zona FIT",
+        "total_revenue": 44250000.0,
+        "total_quantity": 4007
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191982294",
+        "title": "Electron Smartmuscle",
+        "vendor": "Smartmuscle",
+        "total_revenue": 42991250.0,
+        "total_quantity": 832
+      },
+      {
+        "product_id": "gid://shopify/Product/8623192342742",
+        "title": "Best Whey Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 42337950.0,
+        "total_quantity": 344
+      },
+      {
+        "product_id": "gid://shopify/Product/8623210266838",
+        "title": "BiPro Lite Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 40714582.0,
+        "total_quantity": 347
+      },
+      {
+        "product_id": "gid://shopify/Product/8803296870614",
+        "title": "Isopure Zero Low Carb Naturally Sweetened Isopure Company",
+        "vendor": "Isopure Company",
+        "total_revenue": 38703473.380000025,
+        "total_quantity": 422
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191621846",
+        "title": "Best Vegan Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 38528000.0,
+        "total_quantity": 393
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212724438",
+        "title": "Protein Pancake Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 38235412.24999994,
+        "total_quantity": 886
+      },
+      {
+        "product_id": "gid://shopify/Product/8721455022294",
+        "title": "Smart Bar Smart Nutrition",
+        "vendor": "Smart Nutrition",
+        "total_revenue": 34752790.500000015,
+        "total_quantity": 6034
+      },
+      {
+        "product_id": "gid://shopify/Product/8938023354582",
+        "title": "Mega Mass Gainer TNT",
+        "vendor": "TNT",
+        "total_revenue": 34359100.0,
+        "total_quantity": 297
+      },
+      {
+        "product_id": "gid://shopify/Product/8623213052118",
+        "title": "Caja misteriosa",
+        "vendor": "Megaplex",
+        "total_revenue": 31351307.950000018,
+        "total_quantity": 6359
+      },
+      {
+        "product_id": "gid://shopify/Product/8723613614294",
+        "title": "Mystery Gift",
+        "vendor": "Zona FIT",
+        "total_revenue": 30430000.0,
+        "total_quantity": 1313
+      },
+      {
+        "product_id": "gid://shopify/Product/8623216459990",
+        "title": "Opti Men Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 29818000.0,
+        "total_quantity": 179
+      },
+      {
+        "product_id": "gid://shopify/Product/8623192047830",
+        "title": "Pase Fitmafia",
+        "vendor": "Proscience",
+        "total_revenue": 28677113.91,
+        "total_quantity": 382
+      },
+      {
+        "product_id": "gid://shopify/Product/8723323322582",
+        "title": "Gimnasio fijación en puerta X-Factor Weider",
+        "vendor": "Weider",
+        "total_revenue": 28175000.0,
+        "total_quantity": 115
+      },
+      {
+        "product_id": "gid://shopify/Product/8979228426454",
+        "title": "Whey Gourmet Series Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 26426034.420000028,
+        "total_quantity": 170
+      },
+      {
+        "product_id": "gid://shopify/Product/8623195816150",
+        "title": "Collagen & Biotin Complex Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 26179150.0,
+        "total_quantity": 472
+      },
+      {
+        "product_id": "gid://shopify/Product/8777273442518",
+        "title": "Creatina Monohidratada IMN",
+        "vendor": "IMN",
+        "total_revenue": 24735315.0,
+        "total_quantity": 418
+      },
+      {
+        "product_id": "gid://shopify/Product/8623195750614",
+        "title": "Max For Men Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 24252300.0,
+        "total_quantity": 371
+      },
+      {
+        "product_id": "gid://shopify/Product/8623213838550",
+        "title": "Opti Women Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 23731000.0,
+        "total_quantity": 227
+      },
+      {
+        "product_id": "gid://shopify/Product/8623192015062",
+        "title": "Proton + Gainer Smart Muscle",
+        "vendor": "Smartmuscle",
+        "total_revenue": 22644823.249999996,
+        "total_quantity": 289
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191032022",
+        "title": "Supreme Creatina GMN",
+        "vendor": "GMN",
+        "total_revenue": 21132700.0,
+        "total_quantity": 1141
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212953814",
+        "title": "BiPro Ripped Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 20785655.0,
+        "total_quantity": 175
+      },
+      {
+        "product_id": "gid://shopify/Product/8708392648918",
+        "title": "Smart Burner Smart Nutrition",
+        "vendor": "Smart Nutrition",
+        "total_revenue": 20592200.0,
+        "total_quantity": 297
+      },
+      {
+        "product_id": "gid://shopify/Product/8623213347030",
+        "title": "Protein Crisp Bar BSN",
+        "vendor": "BSN",
+        "total_revenue": 20472935.060000096,
+        "total_quantity": 1858
+      },
+      {
+        "product_id": "gid://shopify/Product/8766795546838",
+        "title": "Test HD Muscletech",
+        "vendor": "Muscletech",
+        "total_revenue": 19785000.0,
+        "total_quantity": 204
+      },
+      {
+        "product_id": "gid://shopify/Product/8728025333974",
+        "title": "Celltech Creactor Muscletech",
+        "vendor": "Muscletech",
+        "total_revenue": 19410400.0,
+        "total_quantity": 145
+      },
+      {
+        "product_id": "gid://shopify/Product/8623190868182",
+        "title": "Be One GMN",
+        "vendor": "GMN",
+        "total_revenue": 19150500.0,
+        "total_quantity": 129
+      },
+      {
+        "product_id": "gid://shopify/Product/8759825072342",
+        "title": "Legacy Plus Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 18857350.0,
+        "total_quantity": 210
+      },
+      {
+        "product_id": "gid://shopify/Product/8623196799190",
+        "title": "Test HD Healthy Sports",
+        "vendor": "Healthy Sports",
+        "total_revenue": 18289440.0,
+        "total_quantity": 303
+      },
+      {
+        "product_id": "gid://shopify/Product/8623196176598",
+        "title": "Triple Omega 3-6-9 Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 17205600.0,
+        "total_quantity": 278
+      },
+      {
+        "product_id": "gid://shopify/Product/8623196242134",
+        "title": "Fish Omega 3 1.360 mg Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 16934250.0,
+        "total_quantity": 322
+      },
+      {
+        "product_id": "gid://shopify/Product/8623199944918",
+        "title": "ISO Sensation 93 Ultimate Nutrition",
+        "vendor": "Ultimate Nutrition",
+        "total_revenue": 15973000.0,
+        "total_quantity": 49
+      },
+      {
+        "product_id": "gid://shopify/Product/8623213412566",
+        "title": "Gold Standard 100% Plant Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 14442950.0,
+        "total_quantity": 169
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212757206",
+        "title": "Gluta Stack Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 14340043.5,
+        "total_quantity": 282
+      },
+      {
+        "product_id": "gid://shopify/Product/8623208857814",
+        "title": "The One Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 13927500.0,
+        "total_quantity": 201
+      },
+      {
+        "product_id": "gid://shopify/Product/8708564680918",
+        "title": "Citrato de Magnesio Spartan Lab",
+        "vendor": "Spartan Lab",
+        "total_revenue": 13772500.0,
+        "total_quantity": 356
+      },
+      {
+        "product_id": "gid://shopify/Product/8748185616598",
+        "title": "Gold Standard Protein Shake Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 13393039.559999999,
+        "total_quantity": 1628
+      },
+      {
+        "product_id": "gid://shopify/Product/8623199977686",
+        "title": "Xtend Pro Isolate Cellucor",
+        "vendor": "Cellucor",
+        "total_revenue": 13362758.609999992,
+        "total_quantity": 49
+      },
+      {
+        "product_id": "gid://shopify/Product/8682309124310",
+        "title": "Nitrox Smart Nutrition",
+        "vendor": "Smart Nutrition",
+        "total_revenue": 12868957.239999996,
+        "total_quantity": 353
+      },
+      {
+        "product_id": "gid://shopify/Product/8623200108758",
+        "title": "MYTH Legendary Pre-Workout Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 12578400.839999981,
+        "total_quantity": 2048
+      },
+      {
+        "product_id": "gid://shopify/Product/8734712856790",
+        "title": "Vitamin C 1.000 Plus Bioflavonoides Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 12422600.0,
+        "total_quantity": 262
+      },
+      {
+        "product_id": "gid://shopify/Product/8623199420630",
+        "title": "L-Glutamine Healthy Sports",
+        "vendor": "Healthy Sports",
+        "total_revenue": 11851500.0,
+        "total_quantity": 153
+      },
+      {
+        "product_id": "gid://shopify/Product/9077115584726",
+        "title": "Creatine+ Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 11634000.0,
+        "total_quantity": 91
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191851222",
+        "title": "Alpha BCAA Smartmuscle",
+        "vendor": "Smartmuscle",
+        "total_revenue": 11226000.0,
+        "total_quantity": 121
+      },
+      {
+        "product_id": "gid://shopify/Product/8792480645334",
+        "title": "Carnicut XL Healthy Sports",
+        "vendor": "Healthy Sports",
+        "total_revenue": 10220351.0,
+        "total_quantity": 3502
+      },
+      {
+        "product_id": "gid://shopify/Product/8623199355094",
+        "title": "L-Carnitine Plus Spartan Lab",
+        "vendor": "Spartan Lab",
+        "total_revenue": 10144147.52,
+        "total_quantity": 206
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212527830",
+        "title": "ISO Clean Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 10122998.5,
+        "total_quantity": 66
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191294166",
+        "title": "Mega Power for Women Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 9730000.0,
+        "total_quantity": 159
+      },
+      {
+        "product_id": "gid://shopify/Product/8732663939286",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": "Smart Nutrition",
+        "total_revenue": 9669600.0,
+        "total_quantity": 171
+      },
+      {
+        "product_id": "gid://shopify/Product/8611819716822",
+        "title": "Nitrotech Ripped Muscletech",
+        "vendor": "Muscletech",
+        "total_revenue": 9576000.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212331222",
+        "title": "Nitro Shock Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 8800823.5,
+        "total_quantity": 120
+      },
+      {
+        "product_id": "gid://shopify/Product/8623192244438",
+        "title": "La Wey Fitmafia",
+        "vendor": "Proscience",
+        "total_revenue": 8488037.5,
+        "total_quantity": 179
+      },
+      {
+        "product_id": "gid://shopify/Product/8670321082582",
+        "title": "Smart Stack Smart Nutrition",
+        "vendor": "Smart Nutrition",
+        "total_revenue": 8449050.0,
+        "total_quantity": 138
+      },
+      {
+        "product_id": "gid://shopify/Product/8777107112150",
+        "title": "C4 Sport Cellucor",
+        "vendor": "Cellucor",
+        "total_revenue": 8436000.0,
+        "total_quantity": 95
+      },
+      {
+        "product_id": "gid://shopify/Product/8623195652310",
+        "title": "Vitamin D3 2.000 IU Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 8362050.0,
+        "total_quantity": 251
+      },
+      {
+        "product_id": "gid://shopify/Product/8739297657046",
+        "title": "L Carnitine Liquid Healthy Sports",
+        "vendor": "Healthy Sports",
+        "total_revenue": 8347200.0,
+        "total_quantity": 114
+      },
+      {
+        "product_id": "gid://shopify/Product/8670405361878",
+        "title": "BCAA’s Healthy Sports",
+        "vendor": "Healthy Sports",
+        "total_revenue": 8305450.0,
+        "total_quantity": 89
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191916758",
+        "title": "Reaction Smartmuscle",
+        "vendor": "Smartmuscle",
+        "total_revenue": 8040500.0,
+        "total_quantity": 80
+      },
+      {
+        "product_id": "gid://shopify/Product/8722597740758",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 7817500.0,
+        "total_quantity": 1969
+      },
+      {
+        "product_id": "gid://shopify/Product/8623199682774",
+        "title": "Barbarus Healthy Sports",
+        "vendor": "Healthy Sports",
+        "total_revenue": 7643200.0,
+        "total_quantity": 45
+      },
+      {
+        "product_id": "gid://shopify/Product/9078044983510",
+        "title": "Amino Energy Hydration Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 7353000.0,
+        "total_quantity": 57
+      },
+      {
+        "product_id": "gid://shopify/Product/9018438910166",
+        "title": "Super Mass Gainer Dymatize Nutrition",
+        "vendor": "Dymatize Nutrition",
+        "total_revenue": 7148750.0,
+        "total_quantity": 35
+      },
+      {
+        "product_id": "gid://shopify/Product/9045687042262",
+        "title": "EAA's Army Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 6900000.0,
+        "total_quantity": 75
+      },
+      {
+        "product_id": "gid://shopify/Product/8850712199382",
+        "title": "Batidor Universal",
+        "vendor": "Zona FIT",
+        "total_revenue": 6726778.80999994,
+        "total_quantity": 588
+      },
+      {
+        "product_id": "gid://shopify/Product/8623207317718",
+        "title": "Shield Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 6170000.0,
+        "total_quantity": 80
+      },
+      {
+        "product_id": "gid://shopify/Product/8721658839254",
+        "title": "Amino Powder GMN",
+        "vendor": "GMN",
+        "total_revenue": 5945670.0,
+        "total_quantity": 138
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191720150",
+        "title": "Iso Best Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 5820000.0,
+        "total_quantity": 32
+      },
+      {
+        "product_id": "gid://shopify/Product/8623195947222",
+        "title": "Melatonina Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 5796500.0,
+        "total_quantity": 150
+      },
+      {
+        "product_id": "gid://shopify/Product/8623196569814",
+        "title": "Protein Cake Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 5736735.0,
+        "total_quantity": 99
+      },
+      {
+        "product_id": "gid://shopify/Product/8706923725014",
+        "title": "Vegan Protein Healthy Sports",
+        "vendor": "Healthy Sports",
+        "total_revenue": 5687000.0,
+        "total_quantity": 34
+      },
+      {
+        "product_id": "gid://shopify/Product/9113779765462",
+        "title": "Creatina Power Spartan Lab",
+        "vendor": "Spartan Lab",
+        "total_revenue": 5657434.929999999,
+        "total_quantity": 108
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191425238",
+        "title": "Collagen Peptides Plus Vitamin C Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 5385300.0,
+        "total_quantity": 92
+      },
+      {
+        "product_id": "gid://shopify/Product/8874651386070",
+        "title": "Coyote Fitmafia",
+        "vendor": "Proscience",
+        "total_revenue": 4894200.0,
+        "total_quantity": 173
+      },
+      {
+        "product_id": "gid://shopify/Product/8623192277206",
+        "title": "Viga Fitmafia",
+        "vendor": "Proscience",
+        "total_revenue": 4649000.0,
+        "total_quantity": 80
+      },
+      {
+        "product_id": "gid://shopify/Product/8799493390550",
+        "title": "Capell Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 4366100.0,
+        "total_quantity": 77
+      },
+      {
+        "product_id": "gid://shopify/Product/8704813203670",
+        "title": "Nitro Mass GMN",
+        "vendor": "GMN",
+        "total_revenue": 4230097.3,
+        "total_quantity": 29
+      },
+      {
+        "product_id": "gid://shopify/Product/8623199551702",
+        "title": "Nuclear Healthy Sports",
+        "vendor": "Healthy Sports",
+        "total_revenue": 4173500.0,
+        "total_quantity": 38
+      },
+      {
+        "product_id": "gid://shopify/Product/8762118668502",
+        "title": "Synedrex Metabolic",
+        "vendor": "Metabolic",
+        "total_revenue": 4170000.0,
+        "total_quantity": 35
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191490774",
+        "title": "Biotin Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 4154000.0,
+        "total_quantity": 109
+      },
+      {
+        "product_id": "gid://shopify/Product/8989215457494",
+        "title": "ISO Cool Ultimate Nutrition",
+        "vendor": "Ultimate Nutrition",
+        "total_revenue": 4000000.0,
+        "total_quantity": 12
+      },
+      {
+        "product_id": "gid://shopify/Product/8751594111190",
+        "title": "Creatine Chews Muscletech",
+        "vendor": "Muscletech",
+        "total_revenue": 3828500.0,
+        "total_quantity": 26
+      },
+      {
+        "product_id": "gid://shopify/Product/8748667699414",
+        "title": "Humificador H2O",
+        "vendor": "Zona FIT",
+        "total_revenue": 3728184.7299999963,
+        "total_quantity": 218
+      },
+      {
+        "product_id": "gid://shopify/Product/8938700144854",
+        "title": "Instinct Creatina Monohidrato TNT",
+        "vendor": "TNT",
+        "total_revenue": 3709400.0,
+        "total_quantity": 80
+      },
+      {
+        "product_id": "gid://shopify/Product/8799558598870",
+        "title": "Creatina Monohidrato GMN",
+        "vendor": "GMN",
+        "total_revenue": 3701838.79,
+        "total_quantity": 78
+      },
+      {
+        "product_id": "gid://shopify/Product/8792494309590",
+        "title": "Isopure Infusions Isopure Company",
+        "vendor": "Isopure Company",
+        "total_revenue": 3700000.0,
+        "total_quantity": 35
+      },
+      {
+        "product_id": "gid://shopify/Product/8729395003606",
+        "title": "Sachet Intenze",
+        "vendor": "Proscience",
+        "total_revenue": 3651900.0,
+        "total_quantity": 587
+      },
+      {
+        "product_id": "gid://shopify/Product/8623196012758",
+        "title": "Ginkgo Biloba Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 3622550.0,
+        "total_quantity": 90
+      },
+      {
+        "product_id": "gid://shopify/Product/8670375936214",
+        "title": "Smart A-tack Smart Nutrition",
+        "vendor": "Smart Nutrition",
+        "total_revenue": 3571050.0,
+        "total_quantity": 53
+      },
+      {
+        "product_id": "gid://shopify/Product/8680419688662",
+        "title": "Pump Nox Smart Nutrition",
+        "vendor": "Smart Nutrition",
+        "total_revenue": 3454250.0,
+        "total_quantity": 42
+      },
+      {
+        "product_id": "gid://shopify/Product/8785027793110",
+        "title": "Shaker universal",
+        "vendor": "Zona FIT",
+        "total_revenue": 3436436.239999978,
+        "total_quantity": 401
+      },
+      {
+        "product_id": "gid://shopify/Product/8623198994646",
+        "title": "Lipo 6 Black Keto Nutrex",
+        "vendor": "Nutrex",
+        "total_revenue": 3309016.62,
+        "total_quantity": 61
+      },
+      {
+        "product_id": "gid://shopify/Product/8879112519894",
+        "title": "IMN Bull",
+        "vendor": "IMN",
+        "total_revenue": 3204600.0,
+        "total_quantity": 39
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212298454",
+        "title": "Nutra Vegan Protein Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 3126019.0,
+        "total_quantity": 61
+      },
+      {
+        "product_id": "gid://shopify/Product/8777253028054",
+        "title": "Ultimate IMN",
+        "vendor": "IMN",
+        "total_revenue": 3043700.0,
+        "total_quantity": 34
+      },
+      {
+        "product_id": "gid://shopify/Product/8937315926230",
+        "title": "Radical Power Drink Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 2937250.0,
+        "total_quantity": 467
+      },
+      {
+        "product_id": "gid://shopify/Product/8680186872022",
+        "title": "Energy UP GMN",
+        "vendor": "GMN",
+        "total_revenue": 2887463.25,
+        "total_quantity": 89
+      },
+      {
+        "product_id": "gid://shopify/Product/8707030614230",
+        "title": "Slendar Healthy Sports",
+        "vendor": "Healthy Sports",
+        "total_revenue": 2869500.0,
+        "total_quantity": 18
+      },
+      {
+        "product_id": "gid://shopify/Product/8777282289878",
+        "title": "Creatina HCL IMN",
+        "vendor": "IMN",
+        "total_revenue": 2320650.0,
+        "total_quantity": 29
+      },
+      {
+        "product_id": "gid://shopify/Product/8727809360086",
+        "title": "Tarifa contra entrega",
+        "vendor": "Zona FIT",
+        "total_revenue": 2235000.0,
+        "total_quantity": 222
+      },
+      {
+        "product_id": "gid://shopify/Product/9119679480022",
+        "title": "Sachet Gold Standard 100% Whey Optimum Nutrition",
+        "vendor": "Optimum Nutrition",
+        "total_revenue": 2119624.350000001,
+        "total_quantity": 322
+      },
+      {
+        "product_id": "gid://shopify/Product/8623195848918",
+        "title": "Collagener Pro-Collagen Nutrition Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 2018630.0,
+        "total_quantity": 59
+      },
+      {
+        "product_id": "gid://shopify/Product/8729404244182",
+        "title": "Sachet Best Protein",
+        "vendor": "Proscience",
+        "total_revenue": 2016100.0,
+        "total_quantity": 306
+      },
+      {
+        "product_id": "gid://shopify/Product/8709046993110",
+        "title": "Chromium Picolinate Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 1986950.0,
+        "total_quantity": 53
+      },
+      {
+        "product_id": "gid://shopify/Product/8706932244694",
+        "title": "Beephy Healthy Sports",
+        "vendor": "Healthy Sports",
+        "total_revenue": 1944000.0,
+        "total_quantity": 11
+      },
+      {
+        "product_id": "gid://shopify/Product/8777261416662",
+        "title": "BCAA 2:1:1 IMN",
+        "vendor": "IMN",
+        "total_revenue": 1907940.0,
+        "total_quantity": 23
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191556310",
+        "title": "B4 bpi Sports",
+        "vendor": "BPI Sports",
+        "total_revenue": 1904065.5800000003,
+        "total_quantity": 56
+      },
+      {
+        "product_id": "gid://shopify/Product/8611681304790",
+        "title": "Muscle Juice Ultimate Nutrition",
+        "vendor": "Ultimate Nutrition",
+        "total_revenue": 1755000.0,
+        "total_quantity": 9
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14751478612182",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 1728000.0,
+        "total_quantity": 216
+      },
+      {
+        "product_id": "gid://shopify/Product/8623197028566",
+        "title": "MyoFusion Gaspari",
+        "vendor": "Gaspari",
+        "total_revenue": 1680000.0,
+        "total_quantity": 8
+      },
+      {
+        "product_id": "gid://shopify/Product/8623196504278",
+        "title": "Hydroxycut Hardcore Elite Muscletech",
+        "vendor": "Muscletech",
+        "total_revenue": 1602000.0,
+        "total_quantity": 18
+      },
+      {
+        "product_id": "gid://shopify/Product/8698269532374",
+        "title": "Megaplex Lite Nutramerican",
+        "vendor": "Megaplex",
+        "total_revenue": 1557893.0,
+        "total_quantity": 14
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14188175458518",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 1499400.0,
+        "total_quantity": 252
+      },
+      {
+        "product_id": "gid://shopify/Product/8777243197654",
+        "title": "Isolate IMN",
+        "vendor": "IMN",
+        "total_revenue": 1339250.0,
+        "total_quantity": 8
+      },
+      {
+        "product_id": "gid://shopify/Product/8734706827478",
+        "title": "Vitamina E 1000 IU con Selenium Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 1290600.0,
+        "total_quantity": 16
+      },
+      {
+        "product_id": "gid://shopify/Product/8938719445206",
+        "title": "Creatine Complex TNT",
+        "vendor": "TNT",
+        "total_revenue": 1287000.0,
+        "total_quantity": 17
+      },
+      {
+        "product_id": "gid://shopify/Product/8623195881686",
+        "title": "Collagener Plus Vitamin C Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 1254000.0,
+        "total_quantity": 17
+      },
+      {
+        "product_id": "gid://shopify/Product/8623195619542",
+        "title": "Milk Thistle Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 1206800.0,
+        "total_quantity": 27
+      },
+      {
+        "product_id": "gid://shopify/Product/8623191261398",
+        "title": "Spirulina Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 1152500.0,
+        "total_quantity": 27
+      },
+      {
+        "product_id": "gid://shopify/Product/8623212462294",
+        "title": "Mega Lite Zero Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 1047860.0,
+        "total_quantity": 18
+      },
+      {
+        "product_id": "gid://shopify/Product/8849325686998",
+        "title": "Sachet Best Whey",
+        "vendor": "Proscience",
+        "total_revenue": 1036000.0,
+        "total_quantity": 180
+      },
+      {
+        "product_id": "gid://shopify/Product/8623213183190",
+        "title": "Botella Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 1005488.7299999997,
+        "total_quantity": 44
+      },
+      {
+        "product_id": "gid://shopify/Product/8623196274902",
+        "title": "Sylbin Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 1005200.0,
+        "total_quantity": 14
+      },
+      {
+        "product_id": "gid://shopify/Product/8623198863574",
+        "title": "Creatine Powder Vexus Supplements",
+        "vendor": "Vexus Supplements",
+        "total_revenue": 927925.8300000001,
+        "total_quantity": 18
+      },
+      {
+        "product_id": "gid://shopify/Product/9045517992150",
+        "title": "Colagg2000 Vexus",
+        "vendor": "Vexus Supplements",
+        "total_revenue": 924800.0,
+        "total_quantity": 17
+      },
+      {
+        "product_id": "gid://shopify/Product/8857380716758",
+        "title": "Sachet Syntha 6 BSN",
+        "vendor": "BSN",
+        "total_revenue": 924000.0,
+        "total_quantity": 77
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14571614503126",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 918000.0,
+        "total_quantity": 144
+      },
+      {
+        "product_id": "gid://shopify/Product/9072318611670",
+        "title": "Beta Alanine Iron Smart Nutrition",
+        "vendor": "Smart Nutrition",
+        "total_revenue": 915200.0,
+        "total_quantity": 22
+      },
+      {
+        "product_id": "gid://shopify/Product/8975807217878",
+        "title": "Musclean Metabolic",
+        "vendor": "Metabolic",
+        "total_revenue": 906000.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/Product/9113003327702",
+        "title": "Creatina Crea Vexus",
+        "vendor": "Vexus",
+        "total_revenue": 812000.0,
+        "total_quantity": 12
+      },
+      {
+        "product_id": "gid://shopify/Product/8799552110806",
+        "title": "Coconut Oil Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 755750.0,
+        "total_quantity": 15
+      },
+      {
+        "product_id": "gid://shopify/Product/8623216230614",
+        "title": "100% Whey Premium Nutrex",
+        "vendor": "Nutrex",
+        "total_revenue": 740000.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/Product/8995095019734",
+        "title": "Shaker + Sobres Legend Fitmafia",
+        "vendor": "Proscience",
+        "total_revenue": 714400.0,
+        "total_quantity": 18
+      },
+      {
+        "product_id": "gid://shopify/Product/8916154122454",
+        "title": "Shaker + Sobres Pase Fitmafia",
+        "vendor": "Proscience",
+        "total_revenue": 687000.0,
+        "total_quantity": 14
+      },
+      {
+        "product_id": "gid://shopify/Product/8680116682966",
+        "title": "Creatine Drive Nutrex",
+        "vendor": "Nutrex",
+        "total_revenue": 670500.0,
+        "total_quantity": 5
+      },
+      {
+        "product_id": "gid://shopify/Product/9110031958230",
+        "title": "Scoop medidor 5 g",
+        "vendor": "Zona FIT",
+        "total_revenue": 634193.6799999984,
+        "total_quantity": 350
+      },
+      {
+        "product_id": "gid://shopify/Product/8895004573910",
+        "title": "Brainy Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 602700.0,
+        "total_quantity": 8
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14422187966678",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 577500.0,
+        "total_quantity": 10
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13894774980822",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 562462.5,
+        "total_quantity": 5
+      },
+      {
+        "product_id": "gid://shopify/Product/8623196307670",
+        "title": "Embudo Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 522663.1100000002,
+        "total_quantity": 58
+      },
+      {
+        "product_id": "gid://shopify/Product/8623196111062",
+        "title": "EnerC Vitamina C Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 499100.0,
+        "total_quantity": 34
+      },
+      {
+        "product_id": "gid://shopify/Product/8722597052630",
+        "title": "BCAA Metabolic",
+        "vendor": "Metabolic",
+        "total_revenue": 483000.0,
+        "total_quantity": 7
+      },
+      {
+        "product_id": "gid://shopify/Product/8976009560278",
+        "title": "Protizyme Metabolic",
+        "vendor": "Metabolic",
+        "total_revenue": 476000.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/Product/8623196602582",
+        "title": "Garrafón BSN 2.2 L BSN",
+        "vendor": "BSN",
+        "total_revenue": 450000.0,
+        "total_quantity": 9
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13896414298326",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 449970.0,
+        "total_quantity": 4
+      },
+      {
+        "product_id": "gid://shopify/Product/8722604064982",
+        "title": "Cuerdas de tensión con mochila Zona FIT",
+        "vendor": "Zona FIT",
+        "total_revenue": 445400.0,
+        "total_quantity": 11
+      },
+      {
+        "product_id": "gid://shopify/Product/8722600984790",
+        "title": "Citrulline Malate Metabolic",
+        "vendor": "Metabolic",
+        "total_revenue": 414000.0,
+        "total_quantity": 6
+      },
+      {
+        "product_id": "gid://shopify/Product/8623197094102",
+        "title": "Lipo 6 Black Intense Nutrex",
+        "vendor": "Nutrex",
+        "total_revenue": 384900.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14626077475030",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 360000.0,
+        "total_quantity": 90
+      },
+      {
+        "product_id": "gid://shopify/Product/8762782056662",
+        "title": "L-Glutamine Metabolic",
+        "vendor": "Metabolic",
+        "total_revenue": 345000.0,
+        "total_quantity": 5
+      },
+      {
+        "product_id": "gid://shopify/Product/8623195259094",
+        "title": "Mega Lead Creatine Connect",
+        "vendor": "Connect",
+        "total_revenue": 344770.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13899143839958",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 337477.5,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/Product/8623198896342",
+        "title": "Creatine Micronized Vexus Supplements",
+        "vendor": "Vexus Supplements",
+        "total_revenue": 326400.0,
+        "total_quantity": 4
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14700881477846",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 326400.0,
+        "total_quantity": 48
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14548207239382",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 299625.0,
+        "total_quantity": 5
+      },
+      {
+        "product_id": "gid://shopify/Product/9088072450262",
+        "title": "Sachet EAA's Army Proscience",
+        "vendor": "Proscience",
+        "total_revenue": 279180.0,
+        "total_quantity": 104
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14785990918358",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 272000.0,
+        "total_quantity": 34
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13878056747222",
+        "title": "Legend 30 serv Fitmafia",
+        "vendor": null,
+        "total_revenue": 258750.0,
+        "total_quantity": 5
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14704852435158",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 246400.0,
+        "total_quantity": 4
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14673481171158",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 246400.0,
+        "total_quantity": 4
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14445350944982",
+        "title": "Creatina Monohidrato GMN",
+        "vendor": null,
+        "total_revenue": 245250.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14687641960662",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 244800.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/Product/9125205475542",
+        "title": "Ultra Creatina Monohidrato TNT",
+        "vendor": "TNT",
+        "total_revenue": 240000.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14878036754646",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 240000.0,
+        "total_quantity": 30
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13893745967318",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 239984.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14353117937878",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 239700.0,
+        "total_quantity": 4
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14223689416918",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 239700.0,
+        "total_quantity": 4
+      },
+      {
+        "product_id": "gid://shopify/Product/8762135445718",
+        "title": "Vitamin D3 + K2 Metabolic",
+        "vendor": "Metabolic",
+        "total_revenue": 232000.0,
+        "total_quantity": 8
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14278087213270",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 229500.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14522681950422",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 229500.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14493061742806",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 229500.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14441911517398",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 229500.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14554486669526",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 229500.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14124209504470",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 226100.0,
+        "total_quantity": 38
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13880330223830",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 224985.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13885923164374",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 224985.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14218874978518",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 223720.0,
+        "total_quantity": 4
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14386211750102",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 214200.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14072273699030",
+        "title": "Fish Oil Omega 3 1.360 mg Healthy America",
+        "vendor": null,
+        "total_revenue": 201000.0,
+        "total_quantity": 4
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14747778973910",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 192000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14790393888982",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 192000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/Product/9065512992982",
+        "title": "Potassium Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 192000.0,
+        "total_quantity": 5
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14841870024918",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 192000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14841991266518",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 192000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14076581806294",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 191250.0,
+        "total_quantity": 30
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14388163772630",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 191250.0,
+        "total_quantity": 30
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14688856342742",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 184800.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14568535032022",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 179775.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14509138804950",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 179775.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14232247599318",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 178500.0,
+        "total_quantity": 28
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14856813904086",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 176000.0,
+        "total_quantity": 22
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14704845750486",
+        "title": "Creatina Monohidrato GMN",
+        "vendor": null,
+        "total_revenue": 174400.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14671366521046",
+        "title": "Creatina Monohidrato GMN",
+        "vendor": null,
+        "total_revenue": 174400.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14334848532694",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 173250.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14346874585302",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 173250.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14003462635734",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 173250.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14397042360534",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 173250.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14634086432982",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 172550.0,
+        "total_quantity": 29
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14201704317142",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 167790.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14025864380630",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 166600.0,
+        "total_quantity": 28
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14589895049430",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 165750.0,
+        "total_quantity": 26
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14530256306390",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 165750.0,
+        "total_quantity": 26
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14592806551766",
+        "title": "Creatina Monohidrato GMN",
+        "vendor": null,
+        "total_revenue": 163500.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14451312623830",
+        "title": "Creatina Monohidrato GMN",
+        "vendor": null,
+        "total_revenue": 163500.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14269082206422",
+        "title": "Creatina Monohidrato GMN",
+        "vendor": null,
+        "total_revenue": 163500.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14684204368086",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 163200.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14610445107414",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 163200.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14658493120726",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 163200.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14626077343958",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 163200.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14757895143638",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 160000.0,
+        "total_quantity": 20
+      },
+      {
+        "product_id": "gid://shopify/Product/9069534380246",
+        "title": "Nutra Balance Megaplex",
+        "vendor": "Megaplex",
+        "total_revenue": 159680.0,
+        "total_quantity": 4
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14170548601046",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 159375.0,
+        "total_quantity": 25
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13955929473238",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 159375.0,
+        "total_quantity": 25
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13955310846166",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 159375.0,
+        "total_quantity": 25
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14350059569366",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 156400.0,
+        "total_quantity": 23
+      },
+      {
+        "product_id": "gid://shopify/Product/8762174963926",
+        "title": "Vitamin C Metabolic",
+        "vendor": "Metabolic",
+        "total_revenue": 156000.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14596514054358",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14021233279190",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14469637406934",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14549232582870",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14467315630294",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14359043670230",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14372417700054",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14098963562710",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14263089561814",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14266902544598",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14297100976342",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14245401821398",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14347667046614",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13886068916438",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14439261470934",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14386578456790",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 153000.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14138889404630",
+        "title": "Creatina Monohidrato GMN",
+        "vendor": null,
+        "total_revenue": 152600.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14658264203478",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 152000.0,
+        "total_quantity": 38
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14479230533846",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 151200.0,
+        "total_quantity": 42
+      },
+      {
+        "product_id": "gid://shopify/Product/9086355636438",
+        "title": "Gluconate Potassium Healthy America",
+        "vendor": "Healthy America",
+        "total_revenue": 150400.0,
+        "total_quantity": 4
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14554214400214",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 146625.0,
+        "total_quantity": 23
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14693596725462",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 144000.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14675117146326",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 144000.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14687536218326",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 144000.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14027995709654",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 142800.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14041447465174",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 142800.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14643010011350",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 142800.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14218234691798",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 142800.0,
+        "total_quantity": 24
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14204271558870",
+        "title": "Fish Oil Omega 3 1.360 mg Healthy America",
+        "vendor": null,
+        "total_revenue": 140700.0,
+        "total_quantity": 3
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14472058667222",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 140250.0,
+        "total_quantity": 22
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14007614439638",
+        "title": "Muestra Best Protein",
+        "vendor": null,
+        "total_revenue": 140000.0,
+        "total_quantity": 20
+      },
+      {
+        "product_id": "gid://shopify/Product/8623200141526",
+        "title": "Glutapure Ultimate Nutrition",
+        "vendor": "Ultimate Nutrition",
+        "total_revenue": 140000.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13883627241686",
+        "title": "Muestra Best Protein",
+        "vendor": null,
+        "total_revenue": 140000.0,
+        "total_quantity": 20
+      },
+      {
+        "product_id": "gid://shopify/Product/8868707893462",
+        "title": "SlimFast High Protein Shake",
+        "vendor": "Cellucor",
+        "total_revenue": 139000.0,
+        "total_quantity": 11
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14696204861654",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 136000.0,
+        "total_quantity": 20
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14692088119510",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 136000.0,
+        "total_quantity": 20
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14616727552214",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 136000.0,
+        "total_quantity": 20
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14621278994646",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 136000.0,
+        "total_quantity": 20
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14077669441750",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 133875.0,
+        "total_quantity": 21
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14124164808918",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 130900.0,
+        "total_quantity": 22
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14699664867542",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 129200.0,
+        "total_quantity": 19
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14606551187670",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 127872.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14273181057238",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 127840.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14447215313110",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 127840.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14363516862678",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 127840.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14326741860566",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 127840.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14644081492182",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 126000.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14638142783702",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 126000.0,
+        "total_quantity": 36
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14132426473686",
+        "title": "Isopure Zero Low Carb Isopure Company",
+        "vendor": null,
+        "total_revenue": 125000.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14149140840662",
+        "title": "Isopure Zero Low Carb Isopure Company",
+        "vendor": null,
+        "total_revenue": 125000.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14418826297558",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14556623044822",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14003460604118",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14476182257878",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14600343453910",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14239660507350",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14693595971798",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14222833352918",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13914216956118",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14740501627094",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14704571089110",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14683111358678",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14712398840022",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14707089113302",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14780832776406",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13985271382230",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14406582337750",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14439019249878",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14405720998102",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14449272258774",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14788804116694",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14783798640854",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14784806224086",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14335195054294",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14747801157846",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 123200.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14792370028758",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 120000.0,
+        "total_quantity": 15
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14656310837462",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 120000.0,
+        "total_quantity": 30
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13886207688918",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13889752760534",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13886369693910",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13889719009494",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13884875636950",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13883343700182",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13898692067542",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13900090409174",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13899584274646",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13898725884118",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13899775181014",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13892381933782",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13897086697686",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13890812674262",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13894476005590",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13896541962454",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13891905290454",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13885985489110",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13892500127958",
+        "title": "Crea Stack Megaplex",
+        "vendor": null,
+        "total_revenue": 119992.0,
+        "total_quantity": 1
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13878056911062",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14565417124054",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14405621186774",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14331562983638",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14360686461142",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14299629715670",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13894885572822",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14311894417622",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14386825232598",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14418883150038",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14510099267798",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14562325496022",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14472416526550",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14482366333142",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14000537108694",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14290718261462",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14155782652118",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13955310878934",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14335920111830",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13987056156886",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13925771378902",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14102726770902",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14083849715926",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14173113942230",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14332018000086",
+        "title": "Bipro Classic Display Megaplex",
+        "vendor": null,
+        "total_revenue": 119850.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14647919247574",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 119000.0,
+        "total_quantity": 20
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14138340049110",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 119000.0,
+        "total_quantity": 20
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14030525792470",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 119000.0,
+        "total_quantity": 20
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14362534019286",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 115600.0,
+        "total_quantity": 17
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14444257181910",
+        "title": "Fit Bar Megaplex",
+        "vendor": null,
+        "total_revenue": 115600.0,
+        "total_quantity": 17
+      },
+      {
+        "product_id": "gid://shopify/LineItem/13989277860054",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 115500.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14529203830998",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 115500.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14541758169302",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 115500.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14522947174614",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 115500.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14386825298134",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 115500.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14370908176598",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 115500.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14348913934550",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 115500.0,
+        "total_quantity": 2
+      },
+      {
+        "product_id": "gid://shopify/LineItem/14298506035414",
+        "title": "CRE4 Smart Nutrition",
+        "vendor": null,
+        "total_revenue": 115500.0,
+        "total_quantity": 2
+      }
+    ]
+  },
+  "category_breakdown": [
+    {
+      "category": "Proteínas",
+      "subcategory": "Proteína de Suero (Whey Protein)",
+      "total_revenue": 6495748510.380041,
+      "total_quantity": 30146
+    },
+    {
+      "category": "Rendimiento y Energía",
+      "subcategory": "Creatina",
+      "total_revenue": 5544709659.290032,
+      "total_quantity": 50181
+    },
+    {
+      "category": "Proteínas",
+      "subcategory": "Proteína Aislada/Hidrolizada (Isolate/Hydrolyzed)",
+      "total_revenue": 2535667486.9900026,
+      "total_quantity": 7363
+    },
+    {
+      "category": "Salud y Bienestar",
+      "subcategory": "Otros Suplementos de Bienestar",
+      "total_revenue": 2492558703.199999,
+      "total_quantity": 99231
+    },
+    {
+      "category": "Proteínas",
+      "subcategory": "Proteínas Hipercalóricas (Mass Gainers)",
+      "total_revenue": 1656571998.090002,
+      "total_quantity": 15502
+    },
+    {
+      "category": "Control de Peso",
+      "subcategory": "CLA",
+      "total_revenue": 1211301052.4800003,
+      "total_quantity": 13753
+    },
+    {
+      "category": "Aminoácidos",
+      "subcategory": "EAA / Mezclas",
+      "total_revenue": 604489042.6200013,
+      "total_quantity": 15425
+    },
+    {
+      "category": "Control de Peso",
+      "subcategory": "Quemadores de Grasa / Termogénicos",
+      "total_revenue": 444917814.0799991,
+      "total_quantity": 36445
+    },
+    {
+      "category": "Salud y Bienestar",
+      "subcategory": "Omega 3",
+      "total_revenue": 329997556.97,
+      "total_quantity": 5254
+    },
+    {
+      "category": "Accesorios",
+      "subcategory": "Shakers y Botellas",
+      "total_revenue": 268202574.82999998,
+      "total_quantity": 8046
+    },
+    {
+      "category": "Rendimiento y Energía",
+      "subcategory": "Pre-Entrenos (Pre-Workouts)",
+      "total_revenue": 264199511.11999977,
+      "total_quantity": 4627
+    },
+    {
+      "category": "Proteínas",
+      "subcategory": "Barras y Snacks de Proteína",
+      "total_revenue": 174037776.48000008,
+      "total_quantity": 21777
+    },
+    {
+      "category": "Proteínas",
+      "subcategory": "Proteína Vegana (Vegan Protein)",
+      "total_revenue": 150087350.09,
+      "total_quantity": 2555
+    },
+    {
+      "category": "Salud y Bienestar",
+      "subcategory": "Colágeno",
+      "total_revenue": 84512148.0,
+      "total_quantity": 1256
+    },
+    {
+      "category": "Aminoácidos",
+      "subcategory": "BCAA",
+      "total_revenue": 73264256.15,
+      "total_quantity": 825
+    },
+    {
+      "category": "Proteínas",
+      "subcategory": "Caseína (Casein)",
+      "total_revenue": 68557524.91,
+      "total_quantity": 235
+    },
+    {
+      "category": "Rendimiento y Energía",
+      "subcategory": "Reguladores Hormonales",
+      "total_revenue": 38074440.0,
+      "total_quantity": 507
+    },
+    {
+      "category": "Salud y Bienestar",
+      "subcategory": "Vitaminas y Minerales",
+      "total_revenue": 29601650.0,
+      "total_quantity": 683
+    },
+    {
+      "category": "Aminoácidos",
+      "subcategory": "L-Carnitina",
+      "total_revenue": 18491347.52,
+      "total_quantity": 320
+    },
+    {
+      "category": "Aminoácidos",
+      "subcategory": "Glutamina",
+      "total_revenue": 12196500.0,
+      "total_quantity": 158
+    },
+    {
+      "category": "Accesorios",
+      "subcategory": "Ropa y Otros",
+      "total_revenue": 81500.0,
+      "total_quantity": 8
+    }
+  ],
+  "correlations": {
+    "total_price": {
+      "total_price": 1.0,
+      "subtotal": 1.0,
+      "discounts": 0.8573,
+      "shipping": -0.2267,
+      "tax": NaN,
+      "line_item_count": 0.665,
+      "line_item_quantity": 0.6453
+    },
+    "subtotal": {
+      "total_price": 1.0,
+      "subtotal": 1.0,
+      "discounts": 0.857,
+      "shipping": -0.2364,
+      "tax": NaN,
+      "line_item_count": 0.6672,
+      "line_item_quantity": 0.6456
+    },
+    "discounts": {
+      "total_price": 0.8573,
+      "subtotal": 0.857,
+      "discounts": 1.0,
+      "shipping": -0.1731,
+      "tax": NaN,
+      "line_item_count": 0.5985,
+      "line_item_quantity": 0.6287
+    },
+    "shipping": {
+      "total_price": -0.2267,
+      "subtotal": -0.2364,
+      "discounts": -0.1731,
+      "shipping": 1.0,
+      "tax": NaN,
+      "line_item_count": -0.372,
+      "line_item_quantity": -0.1762
+    },
+    "tax": {
+      "total_price": NaN,
+      "subtotal": NaN,
+      "discounts": NaN,
+      "shipping": NaN,
+      "tax": NaN,
+      "line_item_count": NaN,
+      "line_item_quantity": NaN
+    },
+    "line_item_count": {
+      "total_price": 0.665,
+      "subtotal": 0.6672,
+      "discounts": 0.5985,
+      "shipping": -0.372,
+      "tax": NaN,
+      "line_item_count": 1.0,
+      "line_item_quantity": 0.6463
+    },
+    "line_item_quantity": {
+      "total_price": 0.6453,
+      "subtotal": 0.6456,
+      "discounts": 0.6287,
+      "shipping": -0.1762,
+      "tax": NaN,
+      "line_item_count": 0.6463,
+      "line_item_quantity": 1.0
+    }
+  }
+}
