@@ -1,0 +1,12 @@
+﻿## Estrategia de ventas para el agente IA (resumen)
+
+1. **Portafolio héroe:** enfocar discurso y disponibilidad en proteínas (whey, isolate, mass gainers) y creatinas, que concentran ~55 % del mercado y más del 60 % del GMV interno.
+2. **Bundles orientados a metas:** diseñar combos por objetivo (masa, definición, bienestar) y remarcar ahorro por porción.
+3. **Segmentación práctica:**
+   - Leales: acceso VIP, rutinas avanzadas.
+   - Activos: upsell a categorías premium (isolate, wellness).
+   - En Riesgo: recordatorios de ciclo y asesoría personalizada.
+   - Inactivos: win-back con pruebas sociales y ofertas limitadas.
+4. **Guía conversacional:** validación de objetivos, elección de base (proteína), suma de aliados (creatina/aminoácidos) y reforzar confianza (producto original, catálogo amplio, conveniencia digital).
+5. **Calendario y canales:** priorizar martes-jueves (09h-17h) para mensajes clave; campañas geolocalizadas en Bogotá, Medellín y Cali; uso de email/SMS/WhatsApp con tono cercano.
+6. **Descuentos inteligentes:** mantener promociones, pero migrar parte del incentivo a beneficios (puntos, combos exclusivos), evitando dependencia del descuento plano.

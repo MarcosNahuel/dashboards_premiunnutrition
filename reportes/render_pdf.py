@@ -50,6 +50,15 @@ insights = [
     "Integraremos estrategia_agente_ventas.md en el prompt para que la IA converse como un asesor real de Zona FIT.",
 ]
 
+strategy_summary = [
+    "Portafolio héroe: priorizar proteínas (whey, isolate, mass gainers) y creatinas que suman ~55 % del mercado y >60 % del GMV interno.",
+    "Bundles por objetivo (masa, definición, bienestar) enfatizando ahorro por porción y beneficios combinados.",
+    "Segmentación práctica: Leales (exclusivos), Activos (upsell premium), En riesgo (recordatorios y asesoría), Inactivos (win-back con testimonios).",
+    "Guía conversacional: diagnosticar metas, elegir proteína base, sumar aliados (creatina/aminoácidos/wellness) y reforzar confianza en Zona FIT.",
+    "Calendario y canales: martes-jueves (09 h–17 h), campañas locales en Bogotá/Medellín/Cali por email, SMS y WhatsApp.",
+    "Descuentos inteligentes: mantener promociones pero potenciar beneficios diferenciados (puntos, combos exclusivos, envíos puntuales).",
+]
+
 figures = [
     ("img_revenue_trend.png", "Ingresos diarios: picos entre mayo y julio 2025."),
     ("img_sales_by_hour.png", "Horas pico: 9:00 – 17:00 para campañas del agente."),
@@ -123,6 +132,14 @@ conclusions_list = ListFlowable(
     bulletType="bullet",
 )
 story.extend([conclusions_list, Spacer(1, 0.25 * inch)])
+
+story.append(Spacer(1, 0.2 * inch))
+story.append(Paragraph("Resumen de la estrategia comercial", styles["Heading2Custom"]))
+strategy_list = ListFlowable(
+    [ListItem(Paragraph(text, styles["Body"]), bulletColor=colors.HexColor("#d9480f")) for text in strategy_summary],
+    bulletType="bullet",
+)
+story.extend([strategy_list, Spacer(1, 0.25 * inch)])
 
 footnote = Paragraph(
     "Referencias: histórico Shopify, analysis_outputs/, documento 'IA para Estrategia de Contenido Premium Nutrition' y reportes de mercado (Euromonitor, ICEX, Portafolio).",

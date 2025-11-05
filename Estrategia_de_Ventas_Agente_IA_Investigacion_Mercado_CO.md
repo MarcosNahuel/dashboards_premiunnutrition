@@ -571,3 +571,15 @@ Cerrados los 90 días, esperamos ver **mejoras sustanciales**: un agente que ele
 [\[64\]](https://www.xataka.com/empresas-y-economia/80-compras-online-se-hacen-horario-laboral-datos-apuntan-a-sospechoso-generacion-z#:~:text=El%2080,de%20las%20personas) [\[65\]](https://www.xataka.com/empresas-y-economia/80-compras-online-se-hacen-horario-laboral-datos-apuntan-a-sospechoso-generacion-z#:~:text=El%2080,de%20las%20personas) El 80% de las compras online se hacen en horario laboral ... \- Xataka
 
 [https://www.xataka.com/empresas-y-economia/80-compras-online-se-hacen-horario-laboral-datos-apuntan-a-sospechoso-generacion-z](https://www.xataka.com/empresas-y-economia/80-compras-online-se-hacen-horario-laboral-datos-apuntan-a-sospechoso-generacion-z)
+## Anexo · Resumen de la estrategia para el agente IA
+
+1. **Portafolio héroe:** enfocar el mensaje y cuidar inventario en proteínas (whey, isolate, mass gainers) y creatinas, que reúnen ~55 % del mercado y más del 60 % del GMV interno.
+2. **Bundles orientados a metas:** armar combinaciones específicas por objetivo (masa, definición, bienestar) y comunicar el ahorro por porción.
+3. **Segmentación práctica:**
+   - **Leales:** ofrecer exclusividades, lanzamientos tempranos y rutinas avanzadas.
+   - **Activos:** impulsar upsell hacia categorías premium como isolates y wellness.
+   - **En riesgo:** activar recordatorios de ciclo y asesorías personalizadas con bundles de recompra.
+   - **Inactivos:** reactivar con testimonios, beneficios temporales y confianza en autenticidad.
+4. **Guía conversacional:** diagnosticar objetivo, recomendar proteína base, sumar aliados (creatina/aminoácidos/wellness) y reforzar los diferenciales de Zona FIT (producto original, catálogo amplio, conveniencia digital).
+5. **Calendario y canales:** priorizar martes-jueves entre 09 h y 17 h para mensajes clave; complementar con campañas locales (Bogotá, Medellín, Cali) vía e-mail, SMS y WhatsApp.
+6. **Descuentos inteligentes:** sostener promociones, pero migrar parte del incentivo a esquemas de fidelidad (puntos, combos exclusivos, envíos gratis puntuales) para no depender del descuento plano.
